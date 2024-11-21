@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SimpleJoinAndLeave:jar">
+    <output-path>$PROJECT_DIR$/../../Finals</output-path>
+    <root id="archive" name="SimpleJoinAndLeave.jar">
+      <element id="module-output" name="SimpleJoinAndLeave.main" />
+    </root>
+  </artifact>
+</component>
