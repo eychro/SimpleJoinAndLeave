@@ -1,7 +1,6 @@
 name: SimpleJoinAndLeave
 version: '0.1'
+author: eychro
 main: dev.eychro.simpleJoinAndLeave.SimpleJoinAndLeave
 api-version: '1.21'
-authors:
-  - eychro
-description: SimpleJoinAndLeave
+load: STARTUP
