@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SJAL">
-    <output-path>$PROJECT_DIR$/../../Finals</output-path>
-    <root id="archive" name="SJAL.jar" />
-  </artifact>
-</component>
