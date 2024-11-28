@@ -1,0 +1,10 @@
+#########################################
+#                                       #
+#           SimpleJoinAndLeave          #
+#                                       #
+#########################################
+
+# <player> = displays the name of the player that joined or leaved
+
+join-message: '&a+ &7<player>'
+leave-message: '&c- &7<player>'
